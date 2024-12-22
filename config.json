@@ -16,7 +16,7 @@
         "basic": true,
         "utility": true,
         "moderation": true,
-        "fun": flase,
+        "fun": false,
         "distube music": true,
         "setups": true
     },
