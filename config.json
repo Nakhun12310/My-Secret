@@ -2,21 +2,21 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://Staft:NakhunYT@cluster0.yg6fi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
         "other": true,
         "hentai": true,
         "lavalink": true,
-        "troll": true
+        "troll": false
     },
     "categories": {
         "anime": true,
         "basic": true,
         "utility": true,
         "moderation": true,
-        "fun": true,
+        "fun": flase,
         "distube music": true,
         "setups": true
     },
@@ -24,7 +24,7 @@
         "lavalink": {
             "host": "lava.catfein.com",
             "port": 4000,
-            "password": "catfein",
+            "password": "NakhunYT",
             "secure": false
         }
     }, 
